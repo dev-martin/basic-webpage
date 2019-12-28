@@ -1,0 +1,76 @@
+header {
+    background-color: brown;
+    font-size: 5vw;
+    color:black;
+    margin-left: 2vw;
+    margin-right:2vw;
+    margin-top: 1vw;
+    z-index: -3;
+}
+body{
+  background-color:blanchedalmond;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 10vw;
+  text-align: left;
+  margin-left: 1vw;
+}
+h1{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size : 5vw;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1vw;
+    margin-left:-2vw;
+    font-size: 3vw;
+    margin-top: 0vw;
+}
+#profile{
+  float: left;
+  position: relative;
+  margin-top: -7vw;
+  margin-left: 2vw;
+  z-index: 1;
+}
+i.fab {
+  font-size: 7vw; 
+}
+.profilepic{
+  width: 15vw;
+  height: 15vw;
+  border-radius: 100vw;
+}
+.socialmedia{
+  position: relative;
+  z-index: 1;
+  float: right;
+  margin-top: -7vw;
+  margin-right:2vw;
+}
+ol{
+  margin-left : 5vw;
+}
+#body{
+  margin-top: 20vw;
+  font-size: 2vw;
+}
+h3{
+    margin-left: 1vw;
+    LINE-HEIGHT:    0vw;
+    margin-bottom:  5px;
+}
+.link{
+  margin-left: 1vw;
+  LINE-HEIGHT:    0vw;
+  position:relative;
+}
+.imgdescription{
+  float: right;
+  margin-right: 3vw;
+  width: 30vw;
+}
